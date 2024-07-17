@@ -1,9 +1,9 @@
 #  CSS_project
 # Design a Website like the one given below using CSS.
-# AIM
+## AIM
  Design a Website like the one given below using CSS.
-# PROGRAM:
-# ROOP.html
+## PROGRAM:
+### ROOP.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -46,7 +46,7 @@
 </body>
 </html>
 ```
-# ROOP.CSS
+### ROOP.CSS
 ```
 /* styles.css */
 
@@ -149,7 +149,7 @@ footer {
     bottom: 0;
 }
 ```
-# OUTPUT
+## OUTPUT
 ![Screenshot (148)](https://github.com/user-attachments/assets/9396f12b-2c1f-4304-8cc6-b6dec4225e04)
-# RESULT
+## RESULT
    Thus the program was executes successfully.
